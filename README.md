@@ -38,8 +38,8 @@ This repository utilizes the following main frameworks and libraries:
 To run the notebooks in this repository, you will need to have Python and Jupyter Notebook installed. You can then clone the repository and install the necessary dependencies using pip:
 
 ```bash
-git clone https://github.com/your-username/your-repository.git
-cd your-repository
+git clone https://github.com/itsThien/ITAI.git
+cd [your-repository]
 pip install -r requirements.txt
 ```
 
