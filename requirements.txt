@@ -1,0 +1,11 @@
+tensorflow
+torch
+torchvision
+torchaudio
+scikit-learn
+pandas
+numpy
+matplotlib
+seaborn
+ipywidgets
+openpyxl
