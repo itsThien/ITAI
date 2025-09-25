@@ -6,6 +6,8 @@ This repository contains a collection of Jupyter notebooks and projects related 
 
 - **`Cleaning_Data.ipynb`**: This notebook demonstrates various data cleaning and preprocessing techniques on the `Customer Call List.xlsx` dataset. It includes steps like removing duplicates, standardizing columns, and filtering data.
 
+- **`Data Preprocessing Lab.ipynb`**: A lab focused on data preprocessing techniques using the `bbc-news-data.csv` dataset.
+
 - **`Real_world_Application_of_Supervised_Learning.ipynb`**: This notebook showcases a real-world application of supervised learning by comparing the performance of Random Forest and Gradient Boosting classifiers on a wine quality dataset.
 
 - **`Supervised_Learning_Exploration.ipynb`**: A notebook designed as a learning exercise to explore supervised learning concepts. It uses the breast cancer dataset from scikit-learn to implement and evaluate K-Nearest Neighbors and Logistic Regression models.
@@ -16,6 +18,7 @@ This repository contains a collection of Jupyter notebooks and projects related 
 
 ## Datasets
 
+- **`bbc-news-data.csv`**: A dataset containing news articles from the BBC, used in the `Data Preprocessing Lab.ipynb`.
 - **`Customer Call List.xlsx`**: An Excel file containing customer data used in the `Cleaning_Data.ipynb` notebook.
 - **Wine Quality Dataset**: Used in the `Real_world_Application_of_Supervised_Learning.ipynb` notebook, this dataset is loaded from the UCI Machine Learning Repository.
 - **Breast Cancer Dataset**: This dataset from scikit-learn is used in the `Supervised_Learning_Exploration.ipynb` notebook.
@@ -39,7 +42,7 @@ To run the notebooks in this repository, you will need to have Python and Jupyte
 
 ```bash
 git clone https://github.com/itsThien/ITAI.git
-cd [your-repository]
+cd ITAI
 pip install -r requirements.txt
 ```
 
