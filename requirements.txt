@@ -9,3 +9,5 @@ matplotlib
 seaborn
 ipywidgets
 openpyxl
+gensim
+fasttext
