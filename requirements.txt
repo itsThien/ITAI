@@ -11,3 +11,5 @@ ipywidgets
 openpyxl
 gensim
 fasttext
+kagglehub
+kaggle
