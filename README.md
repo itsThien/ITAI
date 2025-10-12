@@ -4,6 +4,8 @@ This repository contains a collection of Jupyter notebooks and projects related 
 
 ## Notebooks
 
+- **`CineSenti_Exploring_Movie_Sentiment_with_Word2Vec,_TF_IDF_&_FastText.ipynb`**: This notebook explores movie sentiment analysis using various natural language processing techniques, including Word2Vec, TF-IDF, and FastText, on the IMDB Movie Reviews dataset.
+
 - **`Cleaning_Data.ipynb`**: This notebook demonstrates various data cleaning and preprocessing techniques on the `Customer Call List.xlsx` dataset. It includes steps like removing duplicates, standardizing columns, and filtering data.
 
 - **`Data Preprocessing Lab.ipynb`**: A lab focused on data preprocessing techniques using the `bbc-news-data.csv` dataset.
@@ -18,6 +20,7 @@ This repository contains a collection of Jupyter notebooks and projects related 
 
 ## Datasets
 
+- **IMDB Dataset of 50K Movie Reviews**: Used in the `CineSenti_Exploring_Movie_Sentiment_with_Word2Vec,_TF_IDF_&_FastText.ipynb` notebook. This dataset is downloaded from KaggleHub (`lakshmi25npathi/imdb-dataset-of-50k-movie-reviews`).
 - **`bbc-news-data.csv`**: A dataset containing news articles from the BBC, used in the `Data Preprocessing Lab.ipynb`.
 - **`Customer Call List.xlsx`**: An Excel file containing customer data used in the `Cleaning_Data.ipynb` notebook.
 - **Wine Quality Dataset**: Used in the `Real_world_Application_of_Supervised_Learning.ipynb` notebook, this dataset is loaded from the UCI Machine Learning Repository.
@@ -35,6 +38,9 @@ This repository utilizes the following main frameworks and libraries:
 - **NumPy**
 - **Matplotlib**
 - **Seaborn**
+- **Gensim**
+- **FastText**
+- **Kaggle**
 
 ## How to Use
 
